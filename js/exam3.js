@@ -29,6 +29,7 @@ document.querySelector('h1').addEventListener('click', function(){ this.remove()
 
 // Problem 4
 // Part 1
+//document.querySelector('figure').addEventListener('mouseover', function(){ this.fontfamily='Times New Roman})//
 
 
 // Problem 4
