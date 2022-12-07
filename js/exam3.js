@@ -10,14 +10,19 @@ document.querySelector("ELEMENT").addEventListener("EVENT",function(){
  })
  */
 
+//document.querySelector('footer').addEventListener('load', function(){console.log('Treyana Reed')})//
 
 
 // Problem 1
+document.querySelector("p").addEventListener("load", function() {
+  console.log("Treyana Reed")
+})
+
 
 
 // Problem 2
 
-
+document.querySelector('h1').addEventListener('click', function(){ this.remove()})
 
 // Problem 3
 
